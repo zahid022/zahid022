@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Zahid
+I'm a passionate Frontend & Full-stack Developer from Azerbaijan.
 
-<!--
-**zahid022/zahid022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React, Next, Vue, Nuxt
+- Backend: Node.js, PHP, Nest.js, Express.js, Laravel
+- Tools: Git, VSCode, Figma, Vercel
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- [🌐 Portfolio Website](https://zahidh1.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: zahid.hazde001@gmail.com
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/zahid-hesenzade/)
