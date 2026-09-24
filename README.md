@@ -6,9 +6,6 @@ I'm a passionate Frontend & Full-stack Developer from Azerbaijan.
 - Backend: Node.js, PHP, Nest.js, Express.js, Laravel
 - Tools: Git, VSCode, Figma, Vercel
 
-## 🔥 Projects
-- [🌐 Portfolio Website](https://zahidh1.vercel.app/)
-
 ## 📫 Contact Me
 - Email: zahid.hazde001@gmail.com
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/zahid-hesenzade/)
